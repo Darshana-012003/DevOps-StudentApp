@@ -22,4 +22,4 @@ javac StudentApp.java
 java StudentApp
 
 Open Browser:
-http://localhost:9090
+http://localhost:9090/view
